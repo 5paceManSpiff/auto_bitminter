@@ -1,5 +1,3 @@
-Please see [http://atimewastersparadise.com/archives/38][site]
-
 This project has been continued/extended [in the following repository][repository].
 
 [repository]: https://github.com/5paceManSpiff/CoinManager
